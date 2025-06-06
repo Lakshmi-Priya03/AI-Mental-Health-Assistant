@@ -1,1 +1,1 @@
-# AI-Mental-Health-Assistant
+# Healiya
