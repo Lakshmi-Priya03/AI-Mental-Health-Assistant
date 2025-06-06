@@ -1,5 +1,5 @@
 # AI Mental Health Assistant
-#Overview
+Overview
 1.  Our project is an voiced based AI Assistant for Emotional Support, it will have generative interactive capabilities that will allow for it to have a conversation with the end user. Our AI will be able to
     diagnose the end user with basic mental health conditions using text input provided by the user in specifically targeted questions, and our AI will extract the data needed from the text input and will learn
     about the user’s condition, if any for if not placebo or incorrect information preceding the auto-diagnosis.
